@@ -3,9 +3,7 @@
   "name": "@rileytomasek/react-native-swipe-out",
   "description": "iOS-style swipeout buttons behind component",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:silentcloud/react-native-swipeout.git"
