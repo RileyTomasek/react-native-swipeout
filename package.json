@@ -1,5 +1,5 @@
 {
-  "version": "2.0.14",
+  "version": "2.1.0",
   "name": "@rileytomasek/react-native-swipe-out",
   "description": "iOS-style swipeout buttons behind component",
   "main": "index.js",
@@ -18,7 +18,9 @@
     "ui"
   ],
   "author": "Dan Cormier",
-  "maintainers": ["silentcloud"],
+  "maintainers": [
+    "silentcloud"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/silentcloud/react-native-swipeout/issues"
